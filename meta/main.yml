@@ -1,8 +1,9 @@
 # Standards: 0.2
+# !!!Important!!! - This role is currently in beta status. Use at your own risk
 ---
 galaxy_info:
   author: "GeraldLeikam <gerald.leikam@aol.com>"
-  namespace: owncloud
+  namespace: drezael
   role_name: ansible_role_letsencrypt
   description: Role to setup let's encrypt
   license: Apache-2.0
